@@ -26,3 +26,33 @@ Apply multimedia elements such as audio and video.
 - Ensure semantic correctness.
 
 Happy Coding! 💻✨
+
+<!DOCTYPE html
+<html>
+<body>
+img src="img_car.jpg" alt="pink lamborgini"
+
+</body>
+<html>
+
+
+
+<input type="text" name="username" placeholder="enter your name"
+<textarea name="comments" rows="4" cols="50"placeholder="write"
+<buttontype="submit">Submit</button>
+<select name="country">
+<option value="us">united states</option>
+<option value="uk">united kingdom</option>
+</select>
+<label for="email">email:</label>
+<input type="email" id="email" name="email">
+
+<audio controls>
+<source src=song.mp3 type=audio/mpeg">
+your browser does not support the audio element.
+</audio>
+
+</body>
+<html>
+
+
